@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pijon28
 - 👀 I’m interested in Python,web and appdev,Java Script, problem solving and math
-- 🌱 I’m currently learning python and web development
+- 🌱 I’m currently learning R, python and web development
 - 📫 How to reach me
     - Github
       
